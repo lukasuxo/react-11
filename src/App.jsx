@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styled, { createGlobalStyle } from "styled-components";
-import dayImage from './assets/dge.png';
-import nightImage from './assets/game.png';
+import dayImage from "./assets/dge.png";
+import nightImage from "./assets/game.png";
 
 const GlobalStyle = createGlobalStyle`
   body, html {
